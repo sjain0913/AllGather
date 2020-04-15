@@ -1,5 +1,6 @@
 package edu.gatech.ce.allgather.helpers
 
+//import for all the hardware stuff
 import android.content.Context
 import android.hardware.Sensor
 import android.hardware.SensorEvent
